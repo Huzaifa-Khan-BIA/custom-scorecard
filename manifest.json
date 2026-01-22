@@ -1,13 +1,20 @@
 {
   "name": "Advanced KPI Scorecard",
-  "description": "Custom Actual vs Target KPI",
-  "organization": "Muhammad Huzaifa Khan",
-  "version": "1.0",
+  "organization": "Huzaifa Khan",
+  "description": "Custom Actual vs Target KPI Scorecard",
+  "logoUrl": "",
+  "packageUrl": "",
+  "supportUrl": "",
   "visualizations": [
     {
       "id": "advanced_kpi",
-      "label": "Advanced KPI Scorecard",
-      "url": "index.html"
+      "name": "Advanced KPI Scorecard",
+      "description": "Actual vs Target KPI",
+      "iconUrl": "",
+      "resource": {
+        "js": "script.js",
+        "html": "index.html"
+      }
     }
   ]
 }
