@@ -1,0 +1,13 @@
+{
+  "name": "Advanced KPI Scorecard",
+  "description": "Custom Actual vs Target KPI",
+  "organization": "Muhammad Huzaifa Khan",
+  "version": "1.0",
+  "visualizations": [
+    {
+      "id": "advanced_kpi",
+      "label": "Advanced KPI Scorecard",
+      "url": "index.html"
+    }
+  ]
+}
