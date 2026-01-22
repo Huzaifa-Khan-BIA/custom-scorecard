@@ -1,7 +1,7 @@
 {
   "name": "Advanced KPI Scorecard",
   "organization": "Huzaifa Khan",
-  "description": "Custom Actual vs Target KPI Scorecard",
+  "description": "Custom Actual vs Target KPI Scorecard for Looker Studio",
   "logoUrl": "",
   "packageUrl": "",
   "supportUrl": "",
@@ -9,11 +9,11 @@
     {
       "id": "advanced_kpi",
       "name": "Advanced KPI Scorecard",
-      "description": "Actual vs Target KPI",
+      "description": "Shows Actual, Target and Variance with color logic",
       "iconUrl": "",
       "resource": {
-        "js": "script.js",
-        "html": "index.html"
+        "html": "index.html",
+        "js": "script.js"
       }
     }
   ]
